@@ -12,11 +12,11 @@ namespace Aula2205_Entity.Models.DAL
 
             //Migrations (pra produção)
 
-
+            
             Database.SetInitializer<MeuContexto>(new DropCreateDatabaseIfModelChanges<MeuContexto>());
         }
 
-
+        
 
     }
 }
