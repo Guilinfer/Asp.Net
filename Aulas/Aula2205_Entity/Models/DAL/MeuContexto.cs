@@ -17,6 +17,11 @@ namespace Aula2205_Entity.Models.DAL
         }
 
         
+        public DbSet<Usuario> Usuarios { get; set; }
+
+        public DbSet<Categoria> Categoria { get; set; }
+
+        public DbSet<Atividade> Atividade { get; set; }
 
     }
 }
