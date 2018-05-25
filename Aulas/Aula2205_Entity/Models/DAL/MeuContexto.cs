@@ -12,16 +12,14 @@ namespace Aula2205_Entity.Models.DAL
 
             //Migrations (pra produção)
 
-            
+
             Database.SetInitializer<MeuContexto>(new DropCreateDatabaseIfModelChanges<MeuContexto>());
         }
 
-        
+
         public DbSet<Usuario> Usuarios { get; set; }
-
-        public DbSet<Categoria> Categoria { get; set; }
-
-        public DbSet<Atividade> Atividade { get; set; }
+        public DbSet<Categoria> Categorias { get; set; }
+        public DbSet<Atividade> Atividades { get; set; }
 
     }
 }

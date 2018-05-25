@@ -1,0 +1,63 @@
+﻿
+
+Tentando coletar informações de dependências do pacote 'EntityFramework.6.2.0' em relação ao projeto 'Aula2205_Entity', visando '.NETFramework,Version=v4.5.2'
+A coleta de informações de dependência levou 13,83 ms
+Tentando resolver dependências do pacote 'EntityFramework.6.2.0' com DependencyBehavior 'Lowest'
+Resolver as informações de dependência levou 0 ms
+Resolvendo ações para instalar o pacote 'EntityFramework.6.2.0'
+Ações resolvidas para instalar o pacote 'EntityFramework.6.2.0'
+
+
+Tentando coletar informações de dependências do pacote 'EntityFramework.6.2.0' em relação ao projeto 'Aula1505_MVC1', visando '.NETFramework,Version=v4.5.2'
+A coleta de informações de dependência levou 13,85 ms
+Tentando resolver dependências do pacote 'EntityFramework.6.2.0' com DependencyBehavior 'Lowest'
+Resolver as informações de dependência levou 0 ms
+Resolvendo ações para instalar o pacote 'EntityFramework.6.2.0'
+Ações resolvidas para instalar o pacote 'EntityFramework.6.2.0'
+
+
+Tentando coletar informações de dependências do pacote 'EntityFramework.6.2.0' em relação ao projeto 'MeuPrimeiroProjetoWeb', visando '.NETFramework,Version=v4.5.2'
+A coleta de informações de dependência levou 17,41 ms
+Tentando resolver dependências do pacote 'EntityFramework.6.2.0' com DependencyBehavior 'Lowest'
+Resolver as informações de dependência levou 0 ms
+Resolvendo ações para instalar o pacote 'EntityFramework.6.2.0'
+Ações resolvidas para instalar o pacote 'EntityFramework.6.2.0'
+Recuperando o pacote 'EntityFramework 6.2.0' de 'nuget.org'.
+Pacote 'EntityFramework.6.1.3' removido de 'packages.config'
+'EntityFramework.6.1.3' desinstalado com sucesso de Aula2205_Entity
+Adicionando pacote 'EntityFramework.6.2.0' à pasta 'C:\Users\Guilherme\Source\Repos\Asp.Net2\Aulas\packages'
+Pacote 'EntityFramework.6.2.0' adicionado à pasta 'C:\Users\Guilherme\Source\Repos\Asp.Net2\Aulas\packages'
+Pacote 'EntityFramework.6.2.0' adicionado a 'packages.config'
+Executando o arquivo de script 'C:\Users\Guilherme\Source\Repos\Asp.Net2\Aulas\packages\EntityFramework.6.2.0\tools\init.ps1'...
+Executando o arquivo de script 'C:\Users\Guilherme\Source\Repos\Asp.Net2\Aulas\packages\EntityFramework.6.2.0\tools\install.ps1'...
+
+Type 'get-help EntityFramework' to see all available Entity Framework commands.
+'EntityFramework 6.2.0' instalado com sucesso em Aula2205_Entity
+Executar ações do nuget levou 7,49 sec
+Encontrado o pacote 'EntityFramework 6.2.0' em 'C:\Users\Guilherme\Source\Repos\Asp.Net2\Aulas\packages'.
+Pacote 'EntityFramework.6.1.3' removido de 'packages.config'
+'EntityFramework.6.1.3' desinstalado com sucesso de Aula1505_MVC1
+O pacote 'EntityFramework.6.2.0' já existe na pasta 'C:\Users\Guilherme\Source\Repos\Asp.Net2\Aulas\packages'
+Pacote 'EntityFramework.6.2.0' adicionado a 'packages.config'
+Executando o arquivo de script 'C:\Users\Guilherme\Source\Repos\Asp.Net2\Aulas\packages\EntityFramework.6.2.0\tools\install.ps1'...
+
+Type 'get-help EntityFramework' to see all available Entity Framework commands.
+'EntityFramework 6.2.0' instalado com sucesso em Aula1505_MVC1
+Executar ações do nuget levou 2,39 sec
+Encontrado o pacote 'EntityFramework 6.2.0' em 'C:\Users\Guilherme\Source\Repos\Asp.Net2\Aulas\packages'.
+Pacote 'EntityFramework.6.1.3' removido de 'packages.config'
+'EntityFramework.6.1.3' desinstalado com sucesso de MeuPrimeiroProjetoWeb
+O pacote 'EntityFramework.6.2.0' já existe na pasta 'C:\Users\Guilherme\Source\Repos\Asp.Net2\Aulas\packages'
+Pacote 'EntityFramework.6.2.0' adicionado a 'packages.config'
+Executando o arquivo de script 'C:\Users\Guilherme\Source\Repos\Asp.Net2\Aulas\packages\EntityFramework.6.2.0\tools\install.ps1'...
+
+Type 'get-help EntityFramework' to see all available Entity Framework commands.
+'EntityFramework 6.2.0' instalado com sucesso em MeuPrimeiroProjetoWeb
+Removendo pacote 'EntityFramework.6.1.3' da pasta 'C:\Users\Guilherme\Source\Repos\Asp.Net2\Aulas\packages'
+O acesso ao caminho 'C:\Users\Guilherme\Source\Repos\Asp.Net2\Aulas\packages\EntityFramework.6.1.3\tools\EntityFramework.PowerShell.Utility.dll' foi negado.
+O acesso ao caminho 'EntityFramework.PowerShell.Utility.dll' foi negado.
+Pacote 'EntityFramework.6.1.3' removido da pasta 'C:\Users\Guilherme\Source\Repos\Asp.Net2\Aulas\packages'
+Executar ações do nuget levou 3,74 sec
+Tempo Decorrido: 00:00:13.7438360
+========== Concluído ==========
+
